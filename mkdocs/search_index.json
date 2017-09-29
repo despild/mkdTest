@@ -2,23 +2,38 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Waggle Quick Strat Manual\n\n\nWhat is Waggle?\n\n\nIntroducing the Waggle, the simplest remote controller for 3D printers. Breathe new life into your old 3D printers by monitoring, controlling, and sharing control of them with whomever you choose with only a few swipes on your smartphone. Waggle is a both a hardware device that plugs into your 3D printer, and a software platform that lives in the cloud to make you more efficient, and to free your creativity.\n\n\nThe Waggle comes with following parts:\n\n\n\n\nWaggle device\n\n\nWaggle Stand\n\n\nPower adapter \n Micro USB cable\n\n\nUSB 2.0 A to B cable for 3D printer\n\n\n\n\nApp\n\n\n\n\n\n\niOS App\n: Find the Waggle Application in the Apple AppStore with the keyword \u201c\nwaggle\n\u201d\n\n\n\n\n\n\nAndroid App\n: Not available at this moment and will update soon.\n\n\n\n\n\n\nHook up the Waggle to 3D Printer\n\n\n\n\nPlug the microUSB cable and USB A to B cable in bottom sockets.\n\n\n\n\nSet the waggle stand with sliding on the back side. Plug the microUSB cable in power adapter.\n\n\nSetup with an App\n\n\nPower up the Waggle, give about 40 seconds to boot, Waggle access point hostname WGL_xxxxxx should show up on your PC or Mobile\u2019s wifi list and you could setup the Waggle and with app as following.\n\n\n\n\nCreate an account: Tap the \u201cCreate and account\u201d and Enter your email address and password to register your account.\n\n\n\n\nCheck your email and click the confirmation link\n\n\n\n\nSign In with your Account\n\n\n\n\nIf it is the first time to connect the Waggle, you should add the new waggle.\nTap the Add New Waggle button and follow the instruction of the app.\n\n\n\n\nAfter adding the new waggle, you can see your waggle from the list of the waggles\n\n\n\n\nClick the Drive tab to upload a file from Google Drive.\n\n\n\n\nWhen the upload is finished, you can see the files on the Drive tab.\n\n\n\n\n\n\nWhen you select an STL file, you can view the information in this file, change its size, and rotate it in the X, Y, and Z axes.  Set the slicer options to print and press the \u201cSlice \n Print\u201d button to start printing.\n\n\n\n\nIf you select gcode file, it will start printing without slicing.\n\n\n\n\nWhen printing starts, you can check the file name and printer temperature \n progress.", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "location": "/#waggle-quick-strat-manual", 
+            "text": "", 
+            "title": "Waggle Quick Strat Manual"
         }, 
         {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
+            "location": "/#what-is-waggle", 
+            "text": "Introducing the Waggle, the simplest remote controller for 3D printers. Breathe new life into your old 3D printers by monitoring, controlling, and sharing control of them with whomever you choose with only a few swipes on your smartphone. Waggle is a both a hardware device that plugs into your 3D printer, and a software platform that lives in the cloud to make you more efficient, and to free your creativity.", 
+            "title": "What is Waggle?"
         }, 
         {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/#the-waggle-comes-with-following-parts", 
+            "text": "Waggle device  Waggle Stand  Power adapter   Micro USB cable  USB 2.0 A to B cable for 3D printer", 
+            "title": "The Waggle comes with following parts:"
+        }, 
+        {
+            "location": "/#app", 
+            "text": "iOS App : Find the Waggle Application in the Apple AppStore with the keyword \u201c waggle \u201d    Android App : Not available at this moment and will update soon.", 
+            "title": "App"
+        }, 
+        {
+            "location": "/#hook-up-the-waggle-to-3d-printer", 
+            "text": "Plug the microUSB cable and USB A to B cable in bottom sockets.   Set the waggle stand with sliding on the back side. Plug the microUSB cable in power adapter.", 
+            "title": "Hook up the Waggle to 3D Printer"
+        }, 
+        {
+            "location": "/#setup-with-an-app", 
+            "text": "Power up the Waggle, give about 40 seconds to boot, Waggle access point hostname WGL_xxxxxx should show up on your PC or Mobile\u2019s wifi list and you could setup the Waggle and with app as following.   Create an account: Tap the \u201cCreate and account\u201d and Enter your email address and password to register your account.   Check your email and click the confirmation link   Sign In with your Account   If it is the first time to connect the Waggle, you should add the new waggle.\nTap the Add New Waggle button and follow the instruction of the app.   After adding the new waggle, you can see your waggle from the list of the waggles   Click the Drive tab to upload a file from Google Drive.   When the upload is finished, you can see the files on the Drive tab.    When you select an STL file, you can view the information in this file, change its size, and rotate it in the X, Y, and Z axes.  Set the slicer options to print and press the \u201cSlice   Print\u201d button to start printing.   If you select gcode file, it will start printing without slicing.   When printing starts, you can check the file name and printer temperature   progress.", 
+            "title": "Setup with an App"
         }
     ]
 }
